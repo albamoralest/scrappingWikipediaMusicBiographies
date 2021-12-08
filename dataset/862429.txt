@@ -1,0 +1,67 @@
+David Edward Hughes (16 May 1831 – 22 January 1900), was a British-American inventor, practical experimenter, and professor of music known for his work on the printing telegraph and the microphone.  He is generally considered to have been born in London but his family moved around that time so he may have been born in Corwen, Wales. His family moved to the U.S. while he was a child and he became a professor of music in Kentucky. In 1855 he patented a printing telegraph.  He moved back to London in 1857 and further pursued experimentation and invention, coming up with an improved carbon microphone in 1878.  In 1879 he identified what seemed to be a new phenomenon during his experiments: sparking in one device could be heard in a separate portable microphone apparatus he had set up.  It was most probably radio transmissions but this was nine years before electromagnetic radiation was a proven concept and Hughes was convinced by others that his discovery was simply electromagnetic induction.
+
+
+== Biography ==
+Hughes was born in 1831, the son of a musically talented family hailing originally from Y Bala (the place of birth was either London or Corwen, Denbighshire), and emigrated to the United States at the age of seven.  At only six years old, he is known to have played the harp and english concertina to a very high standard.  At an early age, Hughes developed such musical ability that he is reported to have attracted attention of Herr Hast, an eminent German pianist in America, who procured for him a professorship of music at St. Joseph's College in Bardstown, Kentucky.  Hughes also worked as a practical experimenter, coming up with the printing telegraph in 1855.  He moved back to London in 1857 to sell his invention, and worked on the transmission of sound over wires.  He worked on microphones and on the invention of the induction balance (later used in metal detectors).  Despite Hughes' facility as an experimenter, he had little mathematical training.  He was a friend of William Henry Preece.
+
+
+== Printing telegraph ==
+
+In 1855, Hughes designed a printing telegraph system.  In less than two years a number of small telegraph companies, including Western Union in early stages of development, united to form one large corporation — Western Union Telegraph Company — to carry on the business of telegraphy on the Hughes system.  In Europe, the Hughes Telegraph System became an international standard.
+
+
+== Microphone ==
+
+In 1878 Hughes published his work on the effects of sound on the powered electronic sound pickups, called "transmitters", being developed for telephones. He showed that the change in resistance in carbon telephone transmitters was a result of the interaction between carbon parts instead of the commonly held theory that it was from the compression of the carbon itself. Based on its ability to pick up extremely weak sounds, Hughes referred to it as a "microphone effect" (using a word coined by Charles Wheatstone in 1827 for a mechanical sound amplifier). He conducted a simple demonstration of this principle of loose contact by laying an iron nail across two other nails connected to a battery and galvanometer. His paper was read before the Royal Society of London by Thomas Henry Huxley on May 8, 1878, and his new "microphone" was covered in the July 1 edition of Telegraph Journal and Electrical Review. Hughes published his work during the time that Thomas Edison was working on a carbon telephone transmitter and Emile Berliner was working on a loose-contact transmitter. Both Hughes and Edison may have based their work on Philipp Reis' telephone work. Hughes would refine his microphone design using a series of "carbon pencils" stuck into blocks of carbon to better pick up sound but never patented his work, thinking it should be publicly available for development by others.
+
+
+== Probable pre-Hertz radio wave detection ==
+
+Hughes seems to have come across the phenomenon of radio waves nine years before they were proven to exist by Heinrich Hertz in 1888. In 1879 while working in London Hughes discovered that a bad contact in a Bell telephone he was using in his experiments seemed to be sparking when he worked on a nearby induction balance. He developed an improved detector to pick up this unknown "extra current" based on his new microphone design and developed a way to interrupt his induction balance via a clockwork mechanism to produce a series of sparks. By trial and error experiments he eventually found he could pick up these "aerial waves" as he carried his telephone device down the street out to a range of 500 yards (460 m).On February 20, 1880, he demonstrated his technology to representatives of the Royal Society including Thomas Henry Huxley, Sir George Gabriel Stokes, and William Spottiswoode, then president of the Society. Stokes was convinced the phenomenon Hughes was demonstrating was merely electromagnetic induction, not a type of transmission through the air. Hughes was not a physicist and seems to have accepted Stokes observations and did not pursue the experiments any further.  A connection with Hughes phenomenon and radio waves seems to show up 4 years after Heinrich Hertz's 1888 proof of their existence when Sir William Crookes mentioned in his 1892 Fortnightly Review article on Some Possibilities of Electricity that he had already participated in "wireless telegraphy" by an "identical means" to Hertz, a statement showing Crookes was probably another attendee at Hughes' demonstration.Hughes did not publish his findings but did finally mention them in an 1899 letter to The Electrician magazine where he commented that Hertz's experiments were "far more conclusive than mine", and that Marconi's "efforts at demonstration merit the success he has received...[and] the world will be right in placing his name on the highest pinnacle, in relation to aerial electric telegraphy". In the same publication Elihu Thomson put forward a claim that Hughes was really the first to transmit radio.Hughes' discovery that his devices, based on a loose contact between a carbon rod and two carbon blocks as well as the metallic granules in a microphone that exhibited unusual properties in the presence of sparks generated in a nearby apparatus, may have anticipated later devices known as coherers. The carbon rod and two carbon blocks, which he would refer to as a "coherer" in 1899 is also similar to devices known as crystal radio detectors.
+
+
+== The Royal Society ==
+
+Hughes was elected a Fellow of the Royal Society in June 1880, and won their Royal Medal in 1885. After Hughes' death the Hughes Medal was created by the Royal Society in his honour, to be awarded to other scientists "in recognition of an original discovery in the physical sciences, particularly electricity and magnetism or their applications". It included a gift of £1000 and was first awarded in 1902. A listing follows of Hughes Medal recipients:
+
+
+== Death ==
+Hughes died in London and was buried in the Egyptian vaults in the Circle of Lebanon at Highgate Cemetery.
+His wife Anna Chadbourne Hughes was buried with him.
+In his will he left the greater part of his property (£473,034) to a trust fund, to be distributed between the four London hospitals, the Middlesex Hospital, the London Hospital, the King's College Hospital and the Charing Cross Hospital. He also left bequests to the Institute of Electrical Engineers, the Société Internationale des Electriciens, the Royal Society, the Académie des Sciences de l'Institut, and to the Royal Institution of Great Britain.
+
+
+== Awards ==
+The honours Hughes received as an inventor included:
+
+A Grand Gold Medal awarded at the Paris Exhibition, in 1867.
+Royal Society gold Medal in 1885.
+Society of Arts Albert Gold Medal in 1897.
+Chevalier of the Legion of Honour, presented by Napoleon III for his inventions and discoveries in 1860, granting him the title "Commander of the Imperial Order of the Legion of Honour".He was also awarded:
+
+The Order of Saints Maurice and Lazarus (Italy)
+The Order of the Iron Crown (Austria) which carried with it the title of Baron (Freiherr)
+The Order of Saint Anne (Russia)
+The Noble Order of Saint Michael (Bavaria)
+Commander of the Imperial Order of the Grand Cross of the Medjidie (Turkey)
+Commander of the Royal and Distinguished Order of Carlos III (Spain)
+The Grand Officer's Star
+Collar of the Royal Order of Takovo (Serbia)
+Officer of the Order of Leopold (Belgium)
+
+
+== Patents ==
+US patent 14917, David E Hughes, "Telegraph [with alphabetic keyboard and printer]", issued 1856-05-20 
+US patent 22531, David E Hughes, "Duplex Telegraph", issued 1859-01-04 
+US patent 22770, David E Hughes, "Printing Telegraph [with type-wheel]", issued 1859-01-25 
+
+
+== References ==
+
+
+== External links ==
+ Media related to David Edward Hughes at Wikimedia Commons
+"Hughes, David Edward" . Encyclopedia Americana. 1920.
+Chisholm, Hugh, ed. (1911). "Hughes, David Edward" . Encyclopædia Britannica (11th ed.). Cambridge University Press.
+davidedwardhughes.com - website with biographical information, images, newspaper clippings and other media
+Photo of Hughes Machine in use, 1934 [1]. From The Register's "Geek's Guide" series [2]

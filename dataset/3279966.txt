@@ -1,0 +1,66 @@
+Henry Ward Poole (1825–1890) was an American surveyor, civil engineer, educator and writer on and inventor of systems of musical tuning. He was brother of the famous librarian William Frederick Poole, and cousin of the celebrated humorist, journalist and politician Fitch Poole.
+
+
+== Biography ==
+Poole was born 13 September 1825 in Salem, Massachusetts (renamed Peabody 1868), son of Ward Poole (1799–1864) and Elizabeth Wilder (1801–1864). He attended Leicester Academy, and Yale University in 1841 and 1842.He worked up to 1850 at Newburyport, Massachusetts with organ maker Joseph Alley and minister Henry James Hudson (b. 1821-) developing a euharmonic, or enharmonic organ which they patented and solicited by mail, and which was awarded a gold medal at the 1850 Exhibition of the Massachusetts Charitable Mechanic Association. It was installed at Indiana Place Chapel, Boston, Massachusetts and remained in use for fifteen years. Poole patented a special keyboard to be used with his extended tuning system in 1868.
+In 1851 and 1852 Poole assisted August A. Dalson under Pennsylvania state geologist Henry D. Rogers, based in Pottsville, on the state survey organized by Geological Society of Pennsylvania. He remained in Pottsville afterwards working as an engineer, surveyor and commercial property agent.
+In 1856 he was engaged by the New York City based Mexican Pacific Coal and Iron Mines and Land Company to survey railway prospects between Veracruz and Mexico City. Following this he led an expedition through Guerrero exploring for iron and coal prospects, and returning to the United States publishing his topographical survey including four maps in 1858. He returned to Mexico in 1859 to teach modern languages at College of Mines, Mexico City, and acted as agent for the American Antiquarian Society, where he had continued his own studies after Yale, purchasing Mexican artifacts and literature for their collection.
+Poole died 22 October 1890 and is buried at Mexico City National Cemetery.
+
+
+== Musical inventions ==
+
+Poole appreciated "all musical ratios derived from the primes 3, 5, and 7" and more tentatively, 11, and he also asserted the melodic beauty of microtonal commatic shifts. He described a 7-limit double diatonic just scale to distinguish it from the usual diatonic scale, which he called the triple diatonic, with common tones from tonic, dominant and subdominant major triads. The new scale replaced subdominant pitches with the "perfect seventh and ninth of the dominant harmony" to correspond better with what he heard harmonically and melodically in all kinds of music. Poole proposed using five parallel chains of fifths from 1/1, 5/4, 25/16, 7/4 and 35/16, which he distinguished by type and case. One octave needed 100 different pitches to play in 19 different keys.
+
+triple diatonic
+  (9/8) (10/9) (16/15) (9/8) (10/9) (9/8) (16/15)
+C      D      e       F     G      a     b       C Play 
+C      D      e      (F7)   G      A     b       C Play 
+  (9/8) (10/9) (21/20) (8/7) (9/8)  (10/9) (16/15)
+double diatonic
+
+The 1849 organ was described being capable of playing eleven musical (major) keys from the ordinary keyboard in pure intonation by furnishing multiple pipes for each physical key, with foot pedals operating intermediate levers inserted into the tracker works to switch between pairs of pallet valves furnished for each note. The inventors described great benefits due to the tuning - they even claim it stayed in tune better - and argued how these balanced its greater size (up to 8 feet wider) and reduction in loudness compared with instruments of similar cost and number of pipes. They estimated one having "two Diapasons, the Trumpet, the Oboe, the Dulciana, the Flute and the Clarabella, in perfect tune" to cost between $4000 and $5000, and one third more if a Great Organ was desired.
+
+On the suggestion of Thomas Perronet Thompson Poole developed a special keyboard to compel a "musician to know what he is doing", although A. U. Hayter, the King's Chapel organist, had complained about the care required by the existing plan. The new keyboard organized pitches in a similar fashion to an ordinary piano keyboard but also emphasized the different classes of pitches by using different shapes and colors of keytops. The 1/1 series was assigned to large white natural keys arranged rising in diagonal rows, the 5/4 series on raised black sharp keys between the white keys, the 7/4 series on square red keys followed by square yellow 63/32 and blue 45/32 keys behind the white keys (a 6/5 series could be added using buttons raised above the sharp keys if desired). Key motion was linear and used two guide pins. The staggered keyboard arrangement separated distant key signatures and aligned octaves and was transpositionally invariant but not generalized, although the abbreviated pedalboard implied 3, 5, and 7 axes for 14 key-notes using three ranks of identical key levers.
+Poole outlined methods to increase the versatility of similarly arranged instruments, including a slightly tempered 78-tone scale, and a 106-tone scale with two cycles of 53 equal temperament (a Bosanquet "multiple system").
+On April 6, 1871 an enharmonic reed organ constructed by Joseph Alley using more uniformly shaped keys was demonstrated at a meeting of the Society of Arts in Boston by Edward C. Pickering, and played by Edwin H. Higley.
+
+
+== Publications ==
+"On the true natural diatonic scale of music, and its adoption in the euharmonic organ". (1848) Worcester
+"On Perfect Intonation and the Euharmonic Organ". (1850) New Englander and Yale review (May)
+Topographical map of the Mine Hill and Schuylkill-Haven Rail Road with its branches and extension to Ashland; (1854)
+"On Perfect Harmony in Music". (1867) The American Journal of Science and Arts (July) p. 1
+"On the Musical Ratios, and our Pleasure in Harmonious Sounds". (1868) American Journal of Science, vol. xliv, no. 135 (May) p19
+just intonation and za. (1913) Webster's Revised Unabridged Dictionary. C. & G. Merriam Co., Springfield.
+
+
+=== Patents ===
+US 6,565 Alley & Poole. Organ action. 03.07.1849
+US 73,753. H. W. Poole. Improved Enharmonic key-board for Organs, &c. 28.01.1868
+
+
+=== Related Collections ===
+Henry Ward Poole collection of Mexican Documents, 1610–1857. Record Nr. b3414909. New York Public Library, Humanities - Manuscripts and Archives.
+Mexican Pamphlets. 233f.101-140, and 274b.18. Bodleian Library, London.
+Correspondence, 1857. misc. mss. American Antiquarian Society, Worcester, Mss. Dept.
+Correspondence from Henry W. Poole, 18 October 1856. J. Peter Lesley Papers, 1826–1898. B L56. American Philosophical Society, Philadelphia
+Tripod cylinder (pottery vessel ad.200-500) 79.55. Museum of Fine Arts, Boston, Everett Fund.
+Henry James Hudson Collection.  SC1998.39 M2A 6,4. Sibley Library, Eastman School of Music. Rochester, NY
+
+
+== Notes ==
+
+
+== Further reading ==
+Eliot, Samuel A. (1850) "The Euharmonic Organ". The Living Age, September 7. p473-479 ("This article was written for the Living Age, by the Hon. Samuel A. Eliot, our new member of Congress. He has gone to Washington, a place where he will not probably find perfect harmony.")
+"Quality of Musical Sounds". (1868) Scientific American, July 8. p25
+Bosanquet, R. H. M. (1874) "On the Theory of the Division of the Octave". Journal of the Royal Musical Association
+Lesley,  J. P. (1876) Historical Sketch of Geological Explorations in Pennsylvania and Other States Board of Commissioners for the Second Geological Survey, Harrisburg
+Howe, Granville L. and W. S. B. Mathews (1889) A Hundred Years of Music in America. W. B. Conkey, Chicago.
+"One of the Lost Geniuses: Contributors Club". (1891) The Atlantic Monthly,  January. p136
+S. Huntington Hooker (1897) "Joseph Alley's Enharmonic Organ" Music vol. 11. Music Magazine Publishing Co., Chicago
+Owen, B. (1987) "An enharmonic harmonium by Joseph Alley". Reed Organ Society Journal, Fall. p23
+Stanton, William. "Pennsylvania Geological Survey: 1836"; American Scientific Exploration, 1803-1860. (1991) American Philosophical Society, Philadelphia.
+Monzo, Joseph. (1999) "On the Poole Keyboard". Sonic Arts Gallery, San Diego
+"Joseph Alley - Organ, The First Religious Society, Newburyport, MA, 1834". "Pipe Organs of the Merrimack Valley". The Northeast Organist Magazine

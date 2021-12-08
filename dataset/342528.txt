@@ -1,0 +1,55 @@
+Laurie Spiegel (born September 20, 1945) is an American composer. She has worked at Bell Laboratories, in computer graphics, and is known primarily for her electronic-music compositions and her algorithmic composition software Music Mouse. She also plays the guitar and lute.Spiegel was seen by some as a pioneer of the New York new-music scene. She withdrew from this scene in the early 1980s, believing that its focus had shifted from artistic process to product. While she continues to support herself through software development, Spiegel aims to use technology in music as a means of furthering her art rather than as an end in itself. In her words, "I automate whatever can be automated to be freer to focus on those aspects of music that can't be automated. The challenge is to figure out which is which."Spiegel's realization of Johannes Kepler's "Harmonices Mundi" was chosen for the opening track on the "Sounds of Earth" section of the golden record placed on board the Voyager spacecraft in 1977. Another work, titled "Sediment", was included in the 2012 film The Hunger Games.She has been inducted into the National Women's Hall of Fame.
+
+
+== Education ==
+Spiegel's early musical experiences were largely self-directed, beginning with the mandolin, guitar, and banjo she had as a child, which she learned to play by ear. She taught herself Western music notation at the age of 20, after which she began writing down her compositions.Spiegel attended Shimer College through the school's early entrance program, which allows students to enter college without having completed high school. She subsequently attended Oxford University, initially through Shimer's Oxford study abroad program, under which students spend a year continuing the Great Books core curriculum in Oxford while taking tutorials from Oxford.After receiving her BA degree in the Social Sciences from Shimer in 1967, Spiegel stayed in Oxford an additional year, commuting to London to study guitar, theory and composition with John W. Duarte. After moving to New York, where she briefly worked in social sciences research and documentary film, she went on to study composition with Jacob Druckman, Vincent Persichetti and Hall Overton at the Juilliard School from 1969 to 1972, privately with Emmanuel Ghent, then she relocated along with Druckman, to whom she was composer's assistant, to Brooklyn College, completing her MA in Music Composition there in 1975 as well as pursuing research in early American music under the direction of H. Wiley Hitchcock.
+
+
+== Career ==
+Best known for her use of interactive and algorithmic logic as part of the compositional process, Spiegel worked with Buchla and Electronic Music Laboratories synthesizers and subsequently many early, often experimental and prototype-level music and image generation systems, including GROOVE system (1973–1978), Alles Machine (1977) and Max Mathews's RTSked and John R. Pierce tunings (1984, later known as the Bohlen–Pierce scale) at Bell Labs, the alphaSyntauri for the Apple II (1978–1981) and the McLeyvier (1981–1985).Spiegel's best known and most widely used software was Music Mouse—an Intelligent Instrument (1986) for Macintosh, Amiga, and Atari computers. The "intelligent-instrument" designation refers to the program's built-in knowledge of chord and scale convention and stylistic constraints. Automating these processes allows the user to focus on other aspects of the music in real time. In addition to improvisations using this software, Spiegel composed several works using Music Mouse including "Cavis muris" in 1986, "Three Sonic Spaces" in 1989, and "Sound Zones" in 1990. She continued to update the program through Macintosh OS 9, and as of 2012, it remained available for purchase or demo download from her Web site.In addition to electronics and computer-based music, Spiegel's opus includes works for piano, guitar and other solo instruments and small orchestra, as well as drawings, photography, video art, numerous writings and computer software. In the visual domain, Spiegel wrote one of the first drawing or painting programs at Bell Labs, which she expanded to include interactive video and synchronous audio output in the mid-1970s.Pursuing her concept of visual music, she was a video artist in residence at the Experimental Television Lab at WNET Thirteen in New York (1976). She composed series music for the TV Lab's weekly "VTR—Video and Television Review" and audio special effects for its 2-hour science fiction film The Lathe of Heaven, both under direction of David Loxton.In addition to computer software development, starting in the early 1970s, Spiegel supported herself by both teaching and by soundtrack composition, having had steady work throughout the 1970s at Spectra Films, Valkhn Films, the Experimental TV Lab at WNET (PBS), and subsequently for various individual video artists, animators, and filmmakers. Spiegel did much less accompanitive music in the 1980s, during which she focused on creating music software and consulting in the music technology field, as well as additional teaching at Cooper Union and NYU where she established NYUs' first computer music studio. For her work she received a Foundation for Contemporary Arts Grants to Artists award (2018).
+In 2018 Spiegel's early Music for New Electronic Media was part of the Chicago New Media 1973-1992 Exhibition, curated by jonCates.
+
+
+== Discography ==
+The Expanding Universe (1973-8). 2012. Greatly expanded 2-cd rerelease of Spiegel's 1980 LP containing over 2½ hours of music created at Bell Telephone Labs during the 1970s.
+60x60 (2006-2007) released 2008. A two-CD compilation of 60-second works from the 60x60 project.
+Ooppera, 2004. An album of 10-minute operas created from processed animal sounds.
+Harmonices Mundi (1977, released 2004). A realization of Kepler's vision of planetary motion.
+The P-ART Project - 12 Portraits, 2001. 12-composer compilation including Spiegel's "Conversational Paws".
+Obsolete Systems, 1991. A retrospective of Spiegel's work through the 70s and 80s, performed on currently obsolete electronic instruments.
+OHM: The Early Gurus of Electronic Music, 2000. 3-CD compilation featuring Spiegel's 1974 Appalachian Grove.
+Miniatures 2 - a sequence of sixty tiny masterpieces, 2000. A 60-artist compilation soundtrack of Dan Sandin's video A Volume of Julia Sets.
+Female of the Species, a 2-CD compilation of female experimental composers
+Enhanced Gravity, 1999. Compositions as well as text and multimedia art by Spiegel, also featuring multimedia art by 9 others.
+Cocks Crow, Dogs Bark: New Compositional Intentions, 1998. Companion CD of Leonardo Music Journal #7, featuring The Unquestioned Answer, described in that journal.
+Women in Electronic Music - 1977, 1977, re-released 1998. Compilation CD of women in electronic music.
+Computer Music Journal Sound Anthology, 1996. Companion CD to the 20th Anniversary Issue of Computer Music Journal
+Unseen Worlds, 1991, re-released 1994. Works by Laurie Spiegel.
+The Virtuoso in the Computer Age - III, 1993. Compilation CD of four electronic artists, featuring Spiegel's Cavis Muris (1986).
+Murmurs of Earth: The Voyager Interstellar Record, 1992. Music from Sounds of Earth produced to be sent up on the Voyager spacecraft, containing on excerpt of Harmonices Mundi.
+New American Music Vol. 2. Out of print LP.
+The Expanding Universe, 1980. Contains 4 pieces created using the GROOVE system at Bell Labs. Re-released with additional material in 2012.
+Music for New Electronic Media, 1977. Early works by several electronic composers.
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Official website
+"Writings About Laurie Spiegel" page on Laurie Spiegel website
+Resident Visitor: Laurie Spiegel's Machine Music by Simon Reynolds
+Writings on technology and the arts by Laurie Spiegel
+Biography on Vox Novus
+Joanna Bosse, "Laurie Spiegel". Grove Music Online (subscription access).
+EMF Media: Laurie Spiegel, by Kyle Gann
+Interview from 1979, including complete versions of Patchwork, Waves, The Orient Express and Expanding Universe
+IMDB Listing of Laurie Spiegel film soundtracks
+Laurie Spiegel Interview NAMM Oral History Library (2017)
+Interview with Laurie Spiegel on sexmagazine
+Interview with Laurie Spiegel on Tokafi
+The Different Computer of Laurie Spiegel on radiom
+Rare ’70s Electronic Music Is Hidden in The Hunger Games on Wired
