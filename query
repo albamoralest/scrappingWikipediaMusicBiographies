@@ -1,0 +1,15 @@
+prefix skos: <http://www.w3.org/2004/02/skos/core#>
+prefix dbo: <http://dbpedia.org/ontology/>
+
+select distinct ?s ?id ?birth
+where {
+?s <http://purl.org/dc/terms/subject>/skos:broader{0,5} <http://dbpedia.org/resource/Category:People> .
+?s <http://purl.org/dc/terms/subject>/skos:broader{0,5} <http://dbpedia.org/resource/Category:Music_people> .
+?s dbo:birthDate ?birth .
+?s dbo:wikiPageID ?id
+FILTER (?birth >= "1700-01-01"^^xsd:date && ?birth <= "1947-12-31"^^xsd:date)
+}
+order by ?id
+limit 22000 offset 14000
+
+# changing OFFSET to collect all ids

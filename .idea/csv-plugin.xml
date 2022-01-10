@@ -3,13 +3,6 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="/listBiographies/1errors.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="/listBiographies/20211205_sparql_list_1.csv">
           <value>
             <Attribute>
@@ -25,20 +18,6 @@
           </value>
         </entry>
         <entry key="/listBiographies/20211205_sparql_list_3.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/listBiographies/2errors.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/listBiographies/errors.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
