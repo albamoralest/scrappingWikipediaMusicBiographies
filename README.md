@@ -8,7 +8,8 @@ Filters:
 
 Details of dataset
     
-    Total biographies (count): 20.774
+    Total biographies (count): 33.339
+    List in sparqlQueryResults/TOTAL_biography.csv
     Downloaded: 6.733
     Sampled: 1.002
 
@@ -17,3 +18,6 @@ Query -> query.txt
 Collection -> __init__.py
 
 Select random biographies -> sampleBiographies.py
+
+TODO:
+    Add details on how to run the applications

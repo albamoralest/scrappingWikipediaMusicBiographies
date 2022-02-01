@@ -1,5 +1,4 @@
 # wikipedia library
-import pandas
 import pandas as pd
 import wikipedia
 import time
@@ -21,10 +20,11 @@ wikipedia.set_lang(language)
 people_list = ['Glenn_Miller', 'Andrés_Segovia', 'Django_Reinhardt', 'Maria_Callas', 'Édith_Piaf', 'John_Lennon']
 wikiId_list = ['64610', '71932', '9039', '64966', '64963', '15852']
 
-resources_directory = "listBiographies/"
+resources_directory = "listBiographies_byDOB/"
 dataset_directory = "dataset/"
 file_name = "20211205_sparql_list_"
 configuration_file = "configurations.json"
+
 
 # reading with wikipedia library return only text, no HTML tags
 def read_biography():
@@ -105,7 +105,7 @@ for item in range(start, 4):
     configurations['file_id'] = item
     print(item)
 
-    for chunk in pandas.read_csv(resources_directory+file_name+str(item)+".csv", chunksize=100):
+    for chunk in pd.read_csv(resources_directory+file_name+str(item)+".csv", chunksize=100):
         df_biographies = pd.DataFrame()
         try:
             df_errors = pd.DataFrame()
