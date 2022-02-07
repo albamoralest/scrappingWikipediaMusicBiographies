@@ -125,7 +125,11 @@ if check_download:
     # read total web pages list
     df_list_biographies = pd.read_csv(resources_directory + file_name)
     df_remaining = df_list_biographies[~df_list_biographies['id'].isin(df_files_list['file_name'])]
+    df_remaining.sort_values(by=['id'], inplace=True)
     df_remaining.to_csv(resources_directory + 'TEMP_' + file_name, index=False)
+    print("Already downloaded: {}".format(len(df_files_list)))
+    print("Total query: {}".format(len(df_list_biographies)))
+    print("Remaining {}".format(len(df_remaining)))
     file_name = 'TEMP_'+file_name
 
 for chunk in pd.read_csv(resources_directory+file_name, chunksize=100):
