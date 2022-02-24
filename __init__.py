@@ -134,31 +134,33 @@ if check_download:
 
 for chunk in pd.read_csv(resources_directory+file_name, chunksize=100):
     df_biographies = pd.DataFrame()
-    try:
-        df_errors = pd.DataFrame()
-        # read each identifier
-        # TODO:
-        #  a) save a register of the biographies effectively read, update everytime it reads a new
-        #  control or when a problem arise, and try to read again
-        #  b) save the last read in order to start again
-        df_biographies['id'] = chunk['id']
-        df_biographies['s'] = chunk['s']
-        # df_biographies['birth'] = chunk['birth']
-        df_biographies['id'] = df_biographies['id'].map(str)
-        # print(df_biographies.iat[0, 0])
-        # print(configurations['last_identifier'])
-        # print(configurations['first_identifier'])
-        # if id in first row of chunk is lower than (first identifier of chunk)
-        if int(df_biographies.iat[0, 0]) < int(configurations['first_identifier']):
-            continue
-        # verify if read
-        else:
-            # column Zero in df_biographies is ID = wikiId
-            configurations['first_identifier'] = df_biographies.iat[0, 0]
-            configurations['last_identifier'] = df_biographies.iat[len(df_biographies)-1, 0]
-            update_configuration_file(configurations)
-            # start reading all the id's in file
-            for df_row in df_biographies.itertuples():
+
+    df_errors = pd.DataFrame()
+    # read each identifier
+    # TODO:
+    #  a) save a register of the biographies effectively read, update everytime it reads a new
+    #  control or when a problem arise, and try to read again
+    #  b) save the last read in order to start again
+    df_biographies['id'] = chunk['id']
+    df_biographies['s'] = chunk['s']
+    # df_biographies['birth'] = chunk['birth']
+    df_biographies['id'] = df_biographies['id'].map(str)
+    # print(df_biographies.iat[0, 0])
+    # print(configurations['last_identifier'])
+    # print(configurations['first_identifier'])
+    # if id in first row of chunk is lower than (first identifier of chunk)
+    if int(df_biographies.iat[0, 0]) < int(configurations['first_identifier']):
+        continue
+    # verify if read
+    else:
+        # column Zero in df_biographies is ID = wikiId
+        configurations['first_identifier'] = df_biographies.iat[0, 0]
+        configurations['last_identifier'] = df_biographies.iat[len(df_biographies)-1, 0]
+        update_configuration_file(configurations)
+
+        # start reading all the id's in file
+        for df_row in df_biographies.itertuples():
+            try:
                 print(df_row.id)
                 # print(configurations['last_biography'])
                 if int(df_row.id) <= int(configurations['last_biography']):
@@ -177,15 +179,15 @@ for chunk in pd.read_csv(resources_directory+file_name, chunksize=100):
                 configurations['last_biography'] = df_row.id
                 update_configuration_file(configurations)
                 time.sleep(15)
-    except Exception as ex:
-        if hasattr(ex, 'message'):
-            print(ex.message)
-        else:
-            print(ex)
-        df_errors.append([{'id': df_row.id, 'err_mess': ex}])
-    finally:
-        # update configuration file
-        update_configuration_file(configurations)
+            except Exception as ex:
+                if hasattr(ex, 'message'):
+                    print(ex.message)
+                else:
+                    print(ex)
+                df_errors.append([{'id': df_row.id, 'err_mess': ex}])
+            finally:
+                # update configuration file
+                update_configuration_file(configurations)
 
     df_errors.to_csv(resources_directory+'errors.csv', index=False)
 
