@@ -1,4 +1,25 @@
+---
+component-id: 
+name: Corpus collection
+description: This is a tool to build to download the Wikipedia pages of people in the music scene in Europe
+
+type: Documentation
+release-date: 21/04/2022
+release-number: v1.0
+work-package: 
+- WP1
+licence: Public domain, https://unlicense.org
+links:
+- https://github.com/polifonia-project/rulebook
+credits:
+- https://github.com/albamoralest
+---
+
 # Collecting Wikipedia pages of people in the Music scene in Europe
+
+
+
+
 Collecting biographies of people in the music scene 
 Filters:
   

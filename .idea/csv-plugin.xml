@@ -3,6 +3,20 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="/listBiographies_byDOB/20211205_sparql_list_2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/listBiographies_byDOB/20211205_sparql_list_3.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/listBiographies_byDOB/listBiographies_results.csv">
           <value>
             <Attribute>
@@ -11,6 +25,13 @@
           </value>
         </entry>
         <entry key="/list_wikiIdSample.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/sparqlQueryResults/Q1_sparql.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -32,6 +53,20 @@
           </value>
         </entry>
         <entry key="/sparqlQueryResults/errors.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/sparqlQueryResults/listBiographies_results.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/sparqlQueryResultslistBiographies_results.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
